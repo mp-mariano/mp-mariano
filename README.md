@@ -1,5 +1,19 @@
-# 💫 About Me: UNDER CONSTRUCTION
-Soon to be data analyst, working my way to data engineer<br/>
+# 👋 Hey, I’m Mariano.
+🛒 Former procurement pro.<br/>
+📊 Current data wrangler-in-training.<br/>
+⚙️ Future data engineer (manifesting it with Python, SQL & Power BI).<br/>
+
+I’ve spent 10+ years forecasting demand, building budgets, and fixing spreadsheets that others broke.<br/>
+Now I’m levelling up: transforming my business brain into a data one.<br/>
+<br/>
+
+💥 Obsessed with clean dashboards, dirty datasets, and connecting dots across teams.<br/>
+☕ Powered by yerba mate and way too many tabs open.<br/>
+🎯 Working on projects that mix analysis, automation, and a bit of "wait, this could be simpler."<br/>
+<br/>
+Data tells the story. I just help it speak human.<br/>
+<br/>
+Let’s build something insightful 🚀<br/>
 <br/>
 
 

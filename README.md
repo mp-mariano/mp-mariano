@@ -1,5 +1,5 @@
 # 💫 About Me: UNDER CONSTRUCTION
-Soon to be data analyst, working my way to data science<br/>
+Soon to be data analyst, working my way to data engineer<br/>
 <br/>
 
 
